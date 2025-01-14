@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "12"
+mappingDefinitions:
+  SRC:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  WORK:
+    database: WANG
+    schema: WORKTEST
+name: TEST Environment
+type: Environment
